@@ -1,6 +1,6 @@
 # airlines-iata-code
 
-airlines-iata-code
+airline-iata-code
 
 Search airline name by iata code 
 
@@ -11,13 +11,13 @@ Search airline name by iata code
 ## Install it via npm
 
 ```shell
-npm i airlines-iata-codes
+npm i airline-iata-codes
 ```
 
 ## Require the Module
 
 ```shell
-const allData = require('airlines-iata-codes')
+const allData = require('airline-iata-codes')
 ```
 
 ## To use
