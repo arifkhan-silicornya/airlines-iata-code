@@ -1,4 +1,4 @@
-let airlinesObject = require("./airlines.json");
+let airlinesObject = require("./airlineIATA.json");
 
 function airline(params) {
     let arr = [];
