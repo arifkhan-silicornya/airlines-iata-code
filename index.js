@@ -2,7 +2,6 @@ let airlinesObject = require("./airline_ver_3.json");
 
 function airline(params) {
     let arr = [];
-    let s = 0;
     if (params === "undefined" || params === undefined || params === "") {
         airlinesObject.map((dat) => {
             arr.push(dat);
