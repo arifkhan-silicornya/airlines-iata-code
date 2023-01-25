@@ -9,7 +9,7 @@ function airline(params) {
     } else {
         let param = params.toLowerCase();
         airlinesObject.map((dat) => {
-            if (dat.IATACode.toLowerCase().search(param) !== -1) {
+            if (dat.IATACode.toLowerCase() === param) {
                 arr.push(dat);
             }
         })
