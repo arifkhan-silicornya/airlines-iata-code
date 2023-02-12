@@ -7,7 +7,7 @@ Search airline name by iata code
 ![npm](https://img.shields.io/npm/v/airlines-iata-codes)
 ![npm](https://img.shields.io/npm/l/airlines-iata-codes?color=002350)
 ![npm](https://img.shields.io/bundlephobia/minzip/airlines-iata-codes)
-
+![npm](https://img.shields.io/npm/dt/airlines-iata-codes?style=plastic)
 ## Install it via npm
 
 ```shell
