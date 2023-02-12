@@ -1,6 +1,6 @@
 {
     "name": "airline-iata-code",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "airline iata-code airline-name",
     "main": "index.js",
     "scripts": {
